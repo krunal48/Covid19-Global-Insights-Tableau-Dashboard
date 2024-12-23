@@ -57,4 +57,4 @@ The data for this project is sourced from publicly available datasets, such as:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Covid19-Global-Insights-Tableau-Dashboard.git
+   git clone https://github.com/krunal48/Covid19-Global-Insights-Tableau-Dashboard.git
