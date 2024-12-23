@@ -47,7 +47,7 @@ The data for this project is sourced from publicly available datasets, such as:
 
 ## Technologies Used
 
-- **SQL**: Data cleaning, aggregation, and analysis.
+- **SQL**: PostgreSQL for Data cleaning, aggregation, and analysis.
 - **Tableau**: Dashboard creation and interactive data visualization.
 - **GitHub**: Version control and project collaboration.
 
